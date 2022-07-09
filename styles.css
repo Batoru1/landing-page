@@ -5,35 +5,53 @@ body {
 
 .header {background-color: #1f2937;
 flex-direction: row;
+padding-left: 400px;
+padding-right: 400px;
+padding-bottom: 100px;
 }
 
 .links-n-logo{display: flex;
-    justify-content: space-between;
+    gap: 100px;
+    
 
 }
 
 .logo {font-size: 24px;
 color:#f9faf8;}
 
+.links{display:flex;
+justify-content: flex-end;
+flex-grow: 1;
+gap:100px;
+}
+
 
 a{text-decoration: none;
 color:#e5e7eb;
-font-size: 18px;}
+font-size: 18px;
+
+
+
+}
 
 .placeholder {background-color: rgb(102, 97, 97);
-width: 500px;
+width: 400px;
 height: 200px;
 color:#f9faf8;
 display: flex;
 justify-content: center;
-align-items: center;}
+align-items: center;
+
+
+}
 
 .heromain{font-size: 48px;
 font-weight: 900;
 color:#f9faf8}
 
 .herosmall {font-size: 18px;
-color:#e5e7eb}
+color:#e5e7eb;
+width:300px;}
 
 button{background-color:#3882f6 ;
 color: #e5e7eb;
@@ -41,7 +59,9 @@ font-size: 18px;
 border-radius: 10px;}
 
 .hero{display: flex;
+    justify-content: space-between;
+   
 }
 
-.placeholder{justify-self: flex-start;
-display: flex;}
+.left{width: 400px;}
+
