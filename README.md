@@ -7,3 +7,5 @@ will do FlexZombies and GridCriters when I get frustrated and don`t know what to
 logo, thanks - Image by <a href="https://pixabay.com/users/2405360-2405360/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1805784">2405360</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1805784">Pixabay</a>
 
 placeholder, thanks - Image by <a href="https://pixabay.com/users/lyperzyt-12205564/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4974461">lyperzyt</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4974461">Pixabay</a>
+
+finished header-hero and 1st "container"///I might add some pictures in the bordered boxes if I figure out how...
