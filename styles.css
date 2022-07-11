@@ -139,3 +139,33 @@ border-style:groove;
 border-radius: 10px;
 border-color: #3882f6;
 border-width: thick;}
+
+img {width: 150px;
+height: 150px;}
+
+/* body container2 */
+
+.container2 {display: flex;
+    flex-direction: column;
+   background-color: #e5e7eb;
+   padding-left:525px;
+   padding-right: 525px;
+   padding-bottom: 100px;
+   padding-top: 150px;
+}
+
+
+
+#three {color: #6a6a6b;
+font-size: 36px;
+font-style:oblique ;
+display: flex;
+justify-self: center;}
+
+#four {color: #1f2937;
+   align-self:flex-end;
+   padding-right: 50px;
+}
+
+/* body container3 */
+
