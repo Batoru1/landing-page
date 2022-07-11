@@ -19,6 +19,8 @@ information photo 1 - Image by <a href="https://pixabay.com/users/glopezr-133546
   information photo 4 - Image by <a href="https://pixabay.com/users/gustavorezende-1488336/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6076319">Gustavo Rezende</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6076319">Pixabay</a>
   
   container2 done///
-  using alot of "padding" to make my page nice, not so much flex....but i looks nice (:
+  using alot of "padding" to make my page nice, not so much flex(wrap shrink order specifically)....but it looks nice (:///
+  
+  container3 done
   
   
