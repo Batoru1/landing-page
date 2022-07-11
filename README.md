@@ -23,4 +23,14 @@ information photo 1 - Image by <a href="https://pixabay.com/users/glopezr-133546
   
   container3 done
   
+  footer done
+  
+  project done? strange white spaces on the sides of my page...normal?
+  
+  also finished flex zombies
+  
+  flex zombies 2 next
+  
+  grid citters for later cuz later will be learning about grid in Odin
+  
   
