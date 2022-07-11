@@ -33,4 +33,4 @@ information photo 1 - Image by <a href="https://pixabay.com/users/glopezr-133546
   
   grid citters for later cuz later will be learning about grid in Odin
   
-  
+  to remove white borders: body {margin:0;} why? NEED to learn ressetting css!
