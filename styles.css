@@ -214,3 +214,14 @@ display:flex}
 #six {font-size: 18px;
     color: #e5e7eb;
 }
+
+/* footer*/
+
+.footer {background-color: #1f2937;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100px;
+
+}
+
